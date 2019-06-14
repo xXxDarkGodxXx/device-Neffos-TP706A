@@ -1,0 +1,1 @@
+add_lunch_combo omni_TP706A-userdebug
