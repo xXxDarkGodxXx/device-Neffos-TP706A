@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+	$(LOCAL_DIR)/TP706A.mk\
+	$(LOCAL_DIR)/lineage.mk
